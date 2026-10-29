@@ -1,6 +1,6 @@
 cask "betternotes" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0"
+  sha256 "0cd9b43d22e264dbbc9e1549e86213490e8997f3ae878bddc55cce83c925ecaa"
 
   url "https://github.com/1grzyb1/betternotes/releases/download/v#{version}/BetterNotes-macos-universal.zip"
   name "BetterNotes"
